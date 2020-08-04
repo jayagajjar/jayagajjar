@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+This is Jaya. 
+
+- 🔭 I’m currently working on two of my personal projects in React
+1. Kilograms 
+2. Slot Game Template 
 
 <!--
 **jayagajjar/jayagajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
