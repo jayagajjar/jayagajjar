@@ -4,6 +4,7 @@ This is Jaya.
 - 🔭 I’m currently working on two of my personal projects in React
 * Kilograms :balance_scale: https://kilogramz.herokuapp.com/
 * Slot Game Template :slot_machine: https://slotgametemplate.herokuapp.com/
+* Weather App: ⚡ : http://weatherzoneapp.herokuapp.com/
 
 <!--
 **jayagajjar/jayagajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
