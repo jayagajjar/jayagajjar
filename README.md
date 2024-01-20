@@ -4,8 +4,8 @@ This is Jaya.
  🔭 I’m currently working on some of my personal projects in React
   
   * NextJs app with openAI api - https://chatgpt-with-emotions.vercel.app/
-  * A backend server in NodeJs, Express, MongoDB ◀️ [https://backend-25ww.onrender.com/](https://github.com/jayagajjar/backend)
-  * WIP Frontend in React connected to backend throught CRUD operations 💻: [https://frontend-25ww.onrender.com/](https://github.com/jayagajjar/frontend)
+  * A backend server in NodeJS, Express, MongoDB ◀️ [https://backend-25ww.onrender.com/](https://github.com/jayagajjar/backend)
+  * WIP Frontend in React connected to backend through CRUD operations 💻: [https://frontend-25ww.onrender.com/](https://github.com/jayagajjar/frontend)
 
 - 💬 Ask me about Javascript, React, React Native
 
