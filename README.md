@@ -1,9 +1,13 @@
 ### Hi there 👋 
 This is Jaya. 
 
-- 🔭 I’m currently working on two of my personal projects in React
-* backend ◀️ https://backend-25ww.onrender.com/
-* frontend 💻: https://frontend-25ww.onrender.com/
+ 🔭 I’m currently working on some of my personal projects in React
+  
+  * NextJs app with openAI api - https://chatgpt-with-emotions.vercel.app/
+  * A backend server in NodeJs, Express, MongoDB ◀️ [https://backend-25ww.onrender.com/](https://github.com/jayagajjar/backend)
+  * WIP Frontend in React connected to backend throught CRUD operations 💻: [https://frontend-25ww.onrender.com/](https://github.com/jayagajjar/frontend)
+
+- 💬 Ask me about Javascript, React, React Native
 
 <!--
 **jayagajjar/jayagajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
