@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jaya-jha-39767917"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jaya.wired@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://flightfriend.com.au"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=jayagajjar&style=flat&color=0e75b6&label=Profile+views" alt="Profile views"/>
 </p>
 
