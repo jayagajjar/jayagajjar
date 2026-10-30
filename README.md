@@ -36,12 +36,14 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayagajjar&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayagajjar&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile details"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayagajjar&hide_border=true&theme=transparent" alt="GitHub streak"/>
+  <img height="180" src="./profile-summary-card-output/transparent/3-stats.svg" alt="GitHub stats"/>
+  <img height="180" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Top languages"/>
+</p>
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive time"/>
 </p>
 
 ---
